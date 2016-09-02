@@ -23,8 +23,27 @@
 .bgred{
     background-color: #E48080;
 }
+#latest1{
+    background-image: url("../images/a1.jpg");
+}
+#latest2{
+    background-image: url("../images/b1.jpg");
+}
+#latest3{
+    background-image: url("../images/c1.jpg");
+}
+#latest4{
+    background-image: url("../images/d1.jpg");
+}
 /*SECTIONS*/
 .slid1{
     width: 100%;
     height: auto;
+}
+.latest{
+    height: 20em;
+}
+#up{
+    padding: 1%;
+    margin-top: -20em;
 }
