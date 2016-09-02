@@ -1,3 +1,4 @@
+/*col-md-2 col-sm-2 col-xs-2*/
 /*GENERAL*/
 .borderw{
     border: .2em solid white;
@@ -16,7 +17,7 @@
 .bggray{
     background-color: #EEEEEE;
 }
-.bgrayf{
+.bggrayf{
     background-color: #4C4444;
 }
 .bgred{

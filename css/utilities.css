@@ -5,7 +5,7 @@ a{
 a:hover{
     text-decoration: none;
 }
-iframe, input, textarea{
+img, iframe, input, textarea{
     width: 100%;
 }
 /* Shortcuts */
@@ -105,8 +105,11 @@ iframe, input, textarea{
 .ml-5{
 	margin-left: 5%;
 }
-.w-100{
+.w100{
 	width: 100%;
+}
+.aut{
+    width: auto;
 }
 .lh{
 	line-height: 1.5;
