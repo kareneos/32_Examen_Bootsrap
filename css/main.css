@@ -1,0 +1,21 @@
+/*GENERAL*/
+.borderw{
+    border: .2em solid white;
+}
+.borderg{
+    border: .2em solid #EEEEEE;
+}
+/*TEXT*/
+.red{
+    color: #E48080;
+}
+/*BACKGROUNDS*/
+.bggray{
+    background-color: #EEEEEE;
+}
+.bgrayf{
+    background-color: #4C4444;
+}
+.bgred{
+    background-color: #E48080;
+}
