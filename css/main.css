@@ -35,6 +35,9 @@
 #latest4{
     background-image: url("../images/d1.jpg");
 }
+#marcas{
+    background-image: url("../images/client-bg.jpg");
+}
 /*SECTIONS*/
 .slid1{
     width: 100%;
